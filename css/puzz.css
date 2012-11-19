@@ -1,0 +1,88 @@
+.btmBox
+{
+margin:3px;
+text-align:center;
+font-size:<?php echo $bxht - 10; ?>px;
+font-weight:bold;
+color:black;
+width:<?php echo $bxwd; ?>px;
+height:<?php echo $bxht; ?>px;
+position:absolute;
+border-color:BLACK;
+border-style:solid;
+border-width:thin;
+}
+.topBox
+{
+margin:3px;
+text-align:center;
+font-size:<?php echo $bxht - 5; ?>px;
+font-weight:bold;
+color:black;
+width:<?php echo $bxwd; ?>px;
+height:<?php echo $bxht; ?>px;
+position:absolute;
+border-color:BLACK;
+border-style:solid;
+border-width:thin;
+}
+.puzNum
+{
+text-align:center;
+font-size:25;
+font-weight:bold;
+color:black;
+position:absolute;
+top:<?php echo $posTop - 64; ?>;
+left:<?php echo $posLeft; ?>;
+border-color:BLACK;
+border-style:none;
+border-width:thin;
+}
+.inp
+{
+text-align:center;
+font-size:40;
+font-weight:bold;
+color:black;
+border-style:none;
+}
+table
+{
+table-layout:fixed;
+border-collapse: collapse;
+}
+.info
+{
+font-size:20;
+font-weight:bold;
+color:black;
+position:absolute;
+top:5px;
+left:500px;
+
+}
+.time
+{
+font-size:20;
+font-weight:bold;
+color:black;
+
+
+}
+qu.
+{
+font-size:20;
+font-weight:bold;
+color:black;
+position:absolute;
+top:1000px;
+left:500px;
+
+}
+
+.loginLabel
+{
+font-color:red;
+font-size:12;
+}
