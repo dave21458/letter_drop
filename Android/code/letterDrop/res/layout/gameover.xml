@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+            android:id = "@+id/gameover1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@color/gobgcolor"
+            android:layout_margin="3dp"
+		>
+         
+		<TextView 
+			android:id="@+id/goIntro"
+			android:layout_width = "wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/goIntro"
+			android:layout_alignParentTop="true"
+			android:textColor="@color/goTextColor"
+			android:textSize="@dimen/goTextSize1"
+		/>
+	    <TextView 
+	        android:id="@+id/goTime"
+	        android:layout_width = "wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/goTime"
+	        android:layout_below="@id/goIntro"
+	        android:textSize="@dimen/goTextSize2"
+	    />
+	    <TextView 
+	        android:id="@+id/goBest"
+	        android:layout_width = "wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/goBest"
+	        android:layout_below="@id/goTime"
+	        android:textSize="@dimen/goTextSize2"
+	    />
+	    <Button
+	        android:id="@+id/goButton"
+	        android:layout_below="@id/goBest"
+	        android:layout_width = "wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/buttonGO"
+	        android:textSize="@dimen/goButtonTextSize"
+	        android:clickable="true"
+	    />
+    </RelativeLayout>
+</merge>

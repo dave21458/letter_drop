@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+		<RelativeLayout
+		    android:id="@+id/buttons"
+		    android:layout_width="330dp"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentLeft="true"
+		    android:layout_alignParentTop="true"
+		    android:gravity="left|top" >
+		    <include layout="@layout/buttons"/>        
+		</RelativeLayout>
+         
+         
+         <RelativeLayout
+		    android:id="@+id/info"
+		    android:layout_width="600dp"
+		    android:layout_height="wrap_content"
+		    android:layout_alignBottom="@id/buttons"
+            android:layout_toRightOf="@id/buttons"
+		    android:gravity="left|top" >
+			<include layout = "@layout/info"/>
+		</RelativeLayout>
+		
+		<ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/info">
+			<HorizontalScrollView 
+			    android:layout_width="fill_parent"
+       			android:layout_height="wrap_content">
+		        <RelativeLayout
+		            android:id = "@+id/puzz"
+		           
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content">
+		         </RelativeLayout>
+		    </HorizontalScrollView>
+         </ScrollView>
+         
+         <RelativeLayout
+            android:id = "@+id/gameover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@color/gobrdcolor"
+            android:visibility="invisible">
+			<include layout = "@layout/gameover"/>
+         </RelativeLayout>
+
+    </RelativeLayout>

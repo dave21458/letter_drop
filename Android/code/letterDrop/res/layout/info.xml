@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <TextView
+        android:id= "@+id/timeLabel"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignParentLeft="true"
+    	android:layout_alignParentTop="true"
+    	android:textSize="@dimen/info_textsize"
+    	android:text="@string/timelabel"/>
+        
+    <TextView
+        android:id="@+id/time"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignBottom="@id/timeLabel"
+    	android:layout_toRightOf="@id/timeLabel"
+    	android:textSize="@dimen/info_textsize"
+    	android:text="@string/time"/>
+    
+    <TextView
+        android:id="@+id/whomLabel"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignBottom="@id/timeLabel"
+    	android:layout_toRightOf="@id/time"
+    	android:textSize="@dimen/info_textsize"
+    	 android:text="@string/whomLabel"/>
+
+    <TextView
+        android:id="@+id/whom"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignBottom="@id/timeLabel"
+    	android:layout_toRightOf="@id/whomLabel"
+    	android:textSize="@dimen/info_textsize"
+    	android:text="@string/whom"/>
+    
+    <TextView
+        android:id="@+id/subjectLabel"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignBottom="@id/timeLabel"
+    	android:layout_toRightOf="@id/whom"
+    	android:textSize="@dimen/info_textsize"
+    	android:text="@string/subjectLabel"/>
+    
+    <TextView
+        android:id="@+id/subject"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_alignBottom="@id/timeLabel"
+    	android:layout_toRightOf="@id/subjectLabel"
+    	android:textSize="@dimen/info_textsize"
+    	android:text="@string/subject"/>
+    
+
+</merge>

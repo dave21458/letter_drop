@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">letterDrop</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- buttton properties -->
+    <dimen name="button_high">30dp</dimen>
+    <dimen name="button_textsize">10sp</dimen>
+
+    <string name="button_new">New Puzzle</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_remove">Remove Mistakes</string>
+
+    <!-- info properties -->
+    <dimen name="info_textsize">12sp</dimen>
+
+    <string name="timelabel">Current Time:\u0020 </string>
+    <string name="time">00:00:00</string>
+    <string name="whomLabel">\u0020Quote By\u0020 </string>
+    <string name="whom">Somebodys Name</string>
+    <string name="subjectLabel">\u0020 on the subject of\u0020</string>
+    <string name="subject"> Some Subject</string>
+
+    <!-- Gameover properties -->
+    <dimen name="goTextSize1">32sp</dimen>
+    <dimen name="goTextSize2">16sp</dimen>
+    <dimen name="goButtonTextSize">12sp</dimen>
+
+    <string name="goIntro">Congrats You have Solved the Puzzle</string>
+    <string name="goTime">It took you %1$s to complete</string>
+    <string name="goBest">Your Best Time to solve this Puzzle is %1$s</string>
+    <string name="buttonGO">OK</string>
+
+    <color name="gobgcolor">#fa3</color>
+    <color name="gobrdcolor">#888</color>
+    <color name="goTextColor">#38e</color>
+
+    <!-- puzz cell properties -->
+    <item name="maxColumns" type="integer">22</item>
+    <item name="minColumns" type="integer">12</item>
+
+    <dimen name="cell_text_size">35sp</dimen>
+    <dimen name="cell_wide">45dp</dimen>
+    <dimen name="cell_high">45dp</dimen>
+
+    <color name="used_letter">#f00</color>
+    <color name="unused_letter">#000</color>
+
+    <string name="blank">_</string>
+
+    <!-- skill arrays -->
+    <string name="skillprompt">Select Skill Level</string>
+
+    <string-array name="skill">
+        <item name="easy">Easy</item>
+        <item name="med">Medium</item>
+        <item name="hard">Hard</item>
+    </string-array>
+
+    <integer-array name="max_rows">
+        <item name="easy">3</item>
+        <item name="med">5</item>
+        <item name="hard">7</item>
+    </integer-array>
+    <integer-array name="min_rows">
+        <item name="easy">2</item>
+        <item name="med">4</item>
+        <item name="hard">6</item>
+    </integer-array>
+    <integer-array name="removeCnt">
+        <item name="easy">2</item>
+        <item name="med">3</item>
+        <item name="hard">3</item>
+    </integer-array>
+
+    <!-- splash screen -->
+    <string name="title_activity_splash">Quote Craze</string>
+    <string name="spButtonPlay">Play</string>
+    <string name="spButtonSwitch">Switch Player</string>
+    <string name="spButtonNew">New Player</string>
+    <string name="spButtonAdd">Add Player</string>
+    <string name="spSelNameLabel">Select Your Player</string>
+    <string name="spNewNameLabel">Enter New Player\'s Name</string>
+    <string name="spnewNameError2">Player Name Already Used. Please Enter a New Player Name</string>
+
+    <dimen name="spButtonTextSize">16sp</dimen>
+
+    <color name="spBorderColor">#f92</color>
+    <color name="spNewBackColor">#29f</color>
+    <color name="spSelectBackColor">#fff</color>
+    <color name="textColorBlack">#888</color>
+    <color name="textColorRed">#f00</color>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_opener">Quote Craze</string>
+
+</resources>

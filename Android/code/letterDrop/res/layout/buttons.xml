@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+<Button
+    android:id="@+id/buttonNew"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/button_high"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:clickable="true"
+    android:text="@string/button_new"
+    android:textSize="@dimen/button_textsize" />
+
+<Button
+    android:id="@+id/buttonPause"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/button_high"
+    android:layout_alignBottom="@id/buttonNew"
+    android:layout_toRightOf="@id/buttonNew"
+    android:clickable="true"
+    android:text="@string/button_pause"
+    android:textSize="@dimen/button_textsize" />
+
+<Button
+    android:id="@+id/buttonRemove"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/button_high"
+    android:layout_alignBottom="@id/buttonPause"
+    android:layout_toRightOf="@id/buttonPause"
+    android:clickable="true"
+    android:onClick="removeMistakes"
+    android:text="@string/button_remove"
+	android:textSize="@dimen/button_textsize" />
+
+<Spinner
+    android:id="@+id/spinnerSkill"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/button_high"
+    android:layout_alignBottom="@id/buttonPause"
+    android:layout_toRightOf="@id/buttonRemove" 
+	android:drawSelectorOnTop = "true"
+    android:prompt = "@string/skillprompt" 
+    android:entries="@array/skill"
+    android:textSize="@dimen/button_textsize"/>
+    
+</merge>
