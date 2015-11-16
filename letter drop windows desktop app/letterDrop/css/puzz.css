@@ -1,0 +1,57 @@
+.topUnUsed {
+color:black;
+}
+
+.topUsed {
+color:red;
+}
+
+.topNonAlpha{
+background-color:yellow;
+}
+
+.topAlpha{
+	background-color:yellow;
+}
+
+.bottNonAlpha{
+background-color:grey;
+}
+
+.bottAlpha{
+	background-color:white;
+}
+
+.bottUnUsed {
+color:black;
+}
+
+.bottUsed {
+color:red;
+}
+
+
+.cell{
+
+border-width : 2;
+border-color : black;
+border-style : solid;
+text-align : center;
+font-size : 32px; 
+}
+
+.info{
+	position : absolute;
+	left : 50;
+	top : 10;
+}
+
+.cont{
+	position : absolute;
+	left : 80;
+	top : 40;
+}
+
+body{
+    -webkit-user-select: none;
+}

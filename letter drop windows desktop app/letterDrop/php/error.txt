@@ -1,0 +1,1202 @@
+[06-Nov-2015 01:51:19 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\phomium\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\phomium\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\phomium\letterDrop\php\PuzFunctions2.php(16): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\phomium\letterDrop\php\upDate.php(9): opendb()
+#3 {main}
+  thrown in C:\phomium\letterDrop\php\PuzFunctions2.php on line 6
+[06-Nov-2015 02:24:52 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\PuzFunctions2.php(16): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\upDate.php(9): opendb()
+#3 {main}
+  thrown in C:\letterDrop\letterDrop\php\PuzFunctions2.php on line 6
+[06-Nov-2015 18:22:32 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\PuzFunctions2.php(16): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\upDate.php(9): opendb()
+#3 {main}
+  thrown in C:\letterDrop\letterDrop\php\PuzFunctions2.php on line 6
+[06-Nov-2015 18:31:29 utc] PHP Warning:  SimpleXMLElement::asXML(/var/www/games/users.xml): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\puzzUsers.php on line 42
+[06-Nov-2015 18:31:29 utc] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/var/www/games/users.xml&quot; in C:\letterDrop\letterDrop\php\puzzUsers.php on line 34
+[06-Nov-2015 18:31:29 utc] PHP Fatal error:  Call to a member function xpath() on boolean in C:\letterDrop\letterDrop\php\puzzUsers.php on line 13
+[06-Nov-2015 18:34:19 utc] PHP Warning:  SimpleXMLElement::asXML(./db/users.xml): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\puzzUsers.php on line 42
+[06-Nov-2015 18:34:19 utc] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;./db/users.xml&quot; in C:\letterDrop\letterDrop\php\puzzUsers.php on line 34
+[06-Nov-2015 18:34:19 utc] PHP Fatal error:  Call to a member function xpath() on boolean in C:\letterDrop\letterDrop\php\puzzUsers.php on line 13
+[06-Nov-2015 18:34:23 utc] PHP Warning:  SimpleXMLElement::asXML(./db/users.xml): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\puzzUsers.php on line 42
+[06-Nov-2015 18:34:23 utc] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;./db/users.xml&quot; in C:\letterDrop\letterDrop\php\puzzUsers.php on line 34
+[06-Nov-2015 18:34:23 utc] PHP Fatal error:  Call to a member function xpath() on boolean in C:\letterDrop\letterDrop\php\puzzUsers.php on line 13
+[06-Nov-2015 18:44:51 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\PuzFunctions2.php(16): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\upDate.php(9): opendb()
+#3 {main}
+  thrown in C:\letterDrop\letterDrop\php\PuzFunctions2.php on line 6
+[06-Nov-2015 18:57:46 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\PuzFunctions2.php(16): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\upDate.php(9): opendb()
+#3 {main}
+  thrown in C:\letterDrop\letterDrop\php\PuzFunctions2.php on line 6
+[06-Nov-2015 19:09:36 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\PuzFunctions2.php(17): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\upDate.php(9): opendb()
+#3 {main}
+  thrown in C:\letterDrop\letterDrop\php\PuzFunctions2.php on line 6
+[14-Nov-2015 01:36:38 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\PuzFunctions2.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\PuzFunctions2.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\PuzFunctions2.php(18): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\PuzFunctions2.php(231): opendb()
+#3 C:\letterDrop\letterDrop\php\PuzFunctions2.php(254): getQuoteDb('', '', '')
+#4 C:\letterDrop\letterDrop\php\PuzFunctions2.php(12): getNewQuote()
+#5 {main}
+  thrown in C:\letterDrop\letterDrop\php\PuzFunctions2.php on line 6
+[14-Nov-2015 01:52:28 utc] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to open database: unable to open database file' in C:\letterDrop\letterDrop\php\puzzleDB.php:6
+Stack trace:
+#0 C:\letterDrop\letterDrop\php\puzzleDB.php(6): SQLite3->open('./db/quotes.sql...')
+#1 C:\letterDrop\letterDrop\php\puzzleDB.php(13): sqlite3db->__construct('./db/quotes.sql...')
+#2 C:\letterDrop\letterDrop\php\ajax.php(8): opendb()
+#3 C:\letterDrop\letterDrop\php\ajax.php(31): getQuoteDb('', '', '')
+#4 C:\letterDrop\letterDrop\php\ajax.php(4): getNewQuote()
+#5 {main}
+  thrown in C:\letterDrop\letterDrop\php\puzzleDB.php on line 6
+[14-Nov-2015 01:54:01 utc] PHP Notice:  Undefined index: id in C:\letterDrop\letterDrop\php\ajax.php on line 32
+[14-Nov-2015 02:38:41 utc] PHP Notice:  Use of undefined constant type - assumed 'type' in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 02:38:41 utc] PHP Notice:  Use of undefined constant qtNum - assumed 'qtNum' in C:\letterDrop\letterDrop\php\ajax.php on line 26
+[14-Nov-2015 02:38:41 utc] PHP Notice:  Use of undefined constant auth - assumed 'auth' in C:\letterDrop\letterDrop\php\ajax.php on line 28
+[14-Nov-2015 02:38:41 utc] PHP Notice:  Use of undefined constant cat - assumed 'cat' in C:\letterDrop\letterDrop\php\ajax.php on line 30
+[14-Nov-2015 02:38:41 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near &quot;%&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 15
+[14-Nov-2015 02:38:41 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 16
+[14-Nov-2015 02:39:51 utc] PHP Notice:  Use of undefined constant type - assumed 'type' in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 02:39:51 utc] PHP Notice:  Use of undefined constant qtNum - assumed 'qtNum' in C:\letterDrop\letterDrop\php\ajax.php on line 26
+[14-Nov-2015 02:39:51 utc] PHP Notice:  Use of undefined constant auth - assumed 'auth' in C:\letterDrop\letterDrop\php\ajax.php on line 28
+[14-Nov-2015 02:39:51 utc] PHP Notice:  Use of undefined constant cat - assumed 'cat' in C:\letterDrop\letterDrop\php\ajax.php on line 30
+[14-Nov-2015 02:39:51 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near &quot;%&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 15
+[14-Nov-2015 02:39:51 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 16
+[14-Nov-2015 02:40:53 utc] PHP Notice:  Use of undefined constant catagory - assumed 'catagory' in C:\letterDrop\letterDrop\php\ajax.php on line 32
+[14-Nov-2015 02:40:53 utc] PHP Notice:  Use of undefined constant whom - assumed 'whom' in C:\letterDrop\letterDrop\php\ajax.php on line 32
+[14-Nov-2015 02:40:53 utc] PHP Notice:  Use of undefined constant _id - assumed '_id' in C:\letterDrop\letterDrop\php\ajax.php on line 32
+[14-Nov-2015 02:40:53 utc] PHP Notice:  Use of undefined constant quote - assumed 'quote' in C:\letterDrop\letterDrop\php\ajax.php on line 32
+[14-Nov-2015 02:40:53 utc] PHP Notice:  Use of undefined constant len - assumed 'len' in C:\letterDrop\letterDrop\php\ajax.php on line 32
+[14-Nov-2015 03:33:11 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: quotes in C:\letterDrop\letterDrop\php\ajax.php on line 42
+[14-Nov-2015 03:33:11 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 43
+[14-Nov-2015 03:34:14 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: quotes in C:\letterDrop\letterDrop\php\ajax.php on line 42
+[14-Nov-2015 03:34:14 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 43
+[14-Nov-2015 03:34:57 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: quotes in C:\letterDrop\letterDrop\php\ajax.php on line 42
+[14-Nov-2015 03:34:57 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 43
+[14-Nov-2015 15:27:29 utc] PHP Fatal error:  Call to undefined function getNewQuote;maxlen=125;minLen=40() in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 15:28:09 utc] PHP Fatal error:  Call to undefined function getNewQuote;maxlen=125;minLen=40() in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 15:30:08 utc] PHP Fatal error:  Call to undefined function getNewQuote;maxlen=125;minLen=40() in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 15:31:25 utc] PHP Fatal error:  Call to undefined function getNewQuote;maxlen=125;minLen=40() in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 15:33:09 utc] PHP Fatal error:  Call to undefined function getNewQuote;maxlen=125;minLen=40() in C:\letterDrop\letterDrop\php\ajax.php on line 4
+[14-Nov-2015 15:38:36 utc] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in C:\letterDrop\letterDrop\php\ajax.php on line 19
+[14-Nov-2015 15:41:37 utc] PHP Notice:  Undefined index: catagory in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:41:37 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:41:37 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:41:37 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:45:13 utc] PHP Notice:  Undefined index: catagory in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:45:13 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:45:13 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:45:13 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:54:19 utc] PHP Notice:  Undefined index: catagory in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:54:19 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:54:19 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 15:54:19 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:28:31 utc] PHP Notice:  Undefined index: catagory in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:28:31 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:28:31 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:28:31 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:43:23 utc] PHP Notice:  Undefined index: catagory in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:43:23 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:43:23 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:43:23 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:44:05 utc] PHP Notice:  Undefined index: catagory in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:44:05 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:44:05 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[14-Nov-2015 16:44:05 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 37
+[15-Nov-2015 22:24:18 utc] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\letterDrop\letterDrop\php\ajax.php on line 81
+[15-Nov-2015 22:24:18 utc] PHP Fatal error:  Call to undefined function expode() in C:\letterDrop\letterDrop\php\ajax.php on line 82
+[15-Nov-2015 22:26:04 utc] PHP Fatal error:  Call to undefined function expode() in C:\letterDrop\letterDrop\php\ajax.php on line 82
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 82
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 5 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 6 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 7 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 8 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 9 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 10 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 11 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 12 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 13 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 14 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 15 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 16 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 17 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 18 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 19 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 20 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 21 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 22 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 23 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 24 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 25 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 26 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 27 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 28 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 29 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 30 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 31 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 32 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 33 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 34 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 35 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 36 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 37 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 38 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 39 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 40 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Uninitialized string offset: 41 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:26:53 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 82
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 5 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 6 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 7 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 8 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 9 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 10 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 11 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 12 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 13 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 14 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 15 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 16 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 17 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 18 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 19 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 20 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 21 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 22 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 23 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 24 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 25 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 26 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 27 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 28 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 29 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 30 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 31 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 32 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 33 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 34 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 35 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 36 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 37 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 38 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 39 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 40 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Uninitialized string offset: 41 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:06 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 5 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 6 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 7 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 8 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 9 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 10 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 11 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 12 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 13 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 14 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 15 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 16 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 17 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 18 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 19 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 20 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 21 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 22 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 23 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 24 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 25 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 26 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 27 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 28 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 29 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 30 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 31 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 32 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 33 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 34 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 35 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 36 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 37 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 38 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 39 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 40 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Use of undefined constant lines - assumed 'lines' in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Uninitialized string offset: 41 in C:\letterDrop\letterDrop\php\ajax.php on line 84
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:27:33 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:28:26 utc] PHP Notice:  Undefined variable: qu in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:36:56 utc] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in C:\letterDrop\letterDrop\php\ajax.php on line 87
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:39:31 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:40:36 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:41:26 utc] PHP Parse error:  syntax error, unexpected ')', expecting '}' in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:42:34 utc] PHP Parse error:  syntax error, unexpected ')', expecting '}' in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:46:36 utc] PHP Parse error:  syntax error, unexpected ',', expecting '}' in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:47:14 utc] PHP Notice:  Undefined offset: 3 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:47:14 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:48:02 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:48:02 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:49:28 utc] PHP Parse error:  syntax error, unexpected ''})";' (T_ENCAPSED_AND_WHITESPACE), expecting '}' in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:50:01 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:50:01 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:51:06 utc] PHP Warning:  SQLite3::exec(): near &quot;s&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:51:06 utc] PHP Warning:  SQLite3::exec(): near &quot;t&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:51:08 utc] PHP Warning:  SQLite3::exec(): near &quot;s&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 86
+[15-Nov-2015 22:51:09 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:51:09 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:51:43 utc] PHP Notice:  Undefined offset: 1 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 22:51:43 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
+[15-Nov-2015 23:19:08 utc] PHP Warning:  SQLite3::exec(): 3 values for 4 columns in C:\letterDrop\letterDrop\php\ajax.php on line 93
+[15-Nov-2015 23:22:56 utc] PHP Warning:  file_get_contents(C:\letterDrop\letterDrop\quotes\relegion.txt): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\ajax.php on line 82
