@@ -4,7 +4,9 @@ A fun word game that you guess what the famous quote is by rearranging letters i
 
 4 different Skill levels
 
-over 200 different quotes, more added from time to time (so keep checking back)
+Keep track of your best time for each puzzle
+
+over 700 different quotes, more added from time to time (so keep checking back)
 
 Most recent:
 Added a desktop version for Windows.
