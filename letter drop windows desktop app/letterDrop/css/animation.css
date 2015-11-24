@@ -1,0 +1,130 @@
+
+.topRows{
+	position:absolute;
+	top:-400;
+	left:0;
+	-webkit-transform-style: preserve-3d;
+	-webkit-transform:rotateY(0deg);
+	-webkit-transition-timing-function: ease-in;
+}
+	
+@-webkit-keyframes fancy {
+    0%{left:0;top:-400;-webkit-transform:rotateY(0deg)}
+	48% {left:13%;top:38%;-webkit-transform:rotateY(360deg)}
+	55%{-webkit-transform:rotate(360deg)}
+	75%{left:20%;top:30%}
+    100% {left:0;top:0;-webkit-transform:rotate(0deg)}
+}
+
+ .topIntro {
+    -webkit-animation-name: fancy;
+    -webkit-animation-duration: 2.25s;
+    -webkit-animation-fill-mode: both;
+}
+
+.topNoIntro{
+	-webkit-animation-name: fancy;
+    -webkit-animation-duration: 0s;
+}
+
+.topDone{
+	top:0;
+	left:0;
+}
+
+@-webkit-keyframes grow {
+    0%{left:0;top:1000;width:150;height:50}
+    100% {left:0;top:0;width:700;height:300}
+}
+.botRows{
+	position:absolute;
+	top:1600;
+	left:0;
+	width:150;
+	height:50
+}
+
+ .botIntro {
+    -webkit-animation-name: grow;
+    -webkit-animation-duration: 1.5s;
+}
+
+.botNoIntro{
+	-webkit-animation-name: grow;
+    -webkit-animation-duration: 1ms;
+}
+
+.botDone{
+	top:0;
+	left:0;
+	width:150;
+	height:50
+}
+
+.tp span:nth-of-type(3n){
+	-webkit-animation-name: shake,colors;
+    -webkit-animation-duration: 1s,1s;
+	-webkit-animation-iteration-count: 10,15;
+	-webkit-animation-timing-function: steps(4, end),ease;
+}
+.tp span:nth-of-type(3n +1){
+	-webkit-animation-name: shake1,colors1;
+    -webkit-animation-duration: 1s,1s;
+	-webkit-animation-iteration-count: 10, 15;
+	-webkit-animation-timing-function: steps(3, end),ease;
+}
+.tp span:nth-of-type(3n +2){
+	-webkit-animation-name: shake2,colors2;
+    -webkit-animation-duration: 1s,1s;
+	-webkit-animation-iteration-count: 10,15;
+	-webkit-animation-timing-function: steps(4, start),ease;
+}
+
+@-webkit-keyframes shake{
+	0%{-webkit-transform:rotate(30deg)}
+	25%{-webkit-transform:rotate(-30deg)}
+	50%{-webkit-transform:rotate(30deg)}
+	75%{-webkit-transform:rotate(-30deg)}
+	100%{-webkit-transform:rotate(30deg)}
+}
+
+@-webkit-keyframes shake1{
+	0%{-webkit-transform:rotate(-30deg)}
+	25%{-webkit-transform:rotate(30deg)}
+	50%{-webkit-transform:rotate(-30deg)}
+	75%{-webkit-transform:rotate(30deg)}
+	100%{-webkit-transform:rotate(-30deg)}
+}
+
+
+@-webkit-keyframes shake2{
+	0%{-webkit-transform:rotate(60deg)}
+	25%{-webkit-transform:rotate(-60deg)}
+	50%{-webkit-transform:rotate(40deg)}
+	75%{-webkit-transform:rotate(-40deg)}
+	100%{-webkit-transform:rotate(0deg)}
+}
+
+@-webkit-keyframes colors{
+	0%{background-color:yellow}
+	50%{background-color:yellow}
+	30%{background-color:#a00000}
+	100%{background-color:yellow}
+	75%{background-color:#a00000}
+}
+
+@-webkit-keyframes colors1{
+	0%{background-color:#a0c000}
+	25%{background-color:yellow}
+	50%{background-color:#a0c000}
+	75%{background-color:yellow}
+	100%{background-color:#a0c000}
+}
+
+@-webkit-keyframes colors2{
+	0%{background-color:yellow}
+	75%{background-color:#8080a0}
+	20%{background-color:#8080a0}
+	60%{background-color:yellow}
+	100%{background-color:yellow}
+}

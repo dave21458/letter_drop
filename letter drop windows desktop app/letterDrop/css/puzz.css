@@ -1,9 +1,12 @@
+
+
 .topUnUsed {
 color:black;
 }
 
 .topUsed {
 color:red;
+font-style:italic;
 }
 
 .topNonAlpha{
@@ -12,6 +15,7 @@ background-color:yellow;
 
 .topAlpha{
 	background-color:yellow;
+
 }
 
 .bottNonAlpha{
@@ -20,6 +24,7 @@ background-color:grey;
 
 .bottAlpha{
 	background-color:white;
+	opacity:50%;
 }
 
 .bottUnUsed {
@@ -45,11 +50,32 @@ font-size : 32px;
 	left : 50;
 	top : 10;
 }
+.btime{
+	color:black;
+	opacity:100%
+}
+
+.btimeBeat{
+	color:red;
+	opacity:100%;
+	-webkit-animation: blinker 2s linear infinite;
+}
+
+@-webkit-keyframes blinker {  
+  50% { opacity: 0.0; }
+}
 
 .cont{
 	position : absolute;
 	left : 80;
-	top : 40;
+	top : 60;
+}
+
+
+.otherInfo{
+	position : absolute;
+	left : 700;
+	top : 30;
 }
 
 body{

@@ -5,34 +5,40 @@
 <script type="text/javascript" src="js/ajax.js"></script>
 <script type="text/javascript" src="js/puzz.js"></script>
 <link rel="stylesheet" href="./css/puzz.css"/>
+<link rel="stylesheet" href="./css/animation.css"/>
 <script>
 
 function newPuzz(){
 	if(puzzle.startTime > 0){
 		if(!confirm("Are you sure you want to quit \n this Puzzle"))return;
 	}
-	ajaxReq(puzzle.storeQuote,"php/ajax.php","type=getNewQuote&maxLen="+ puzzle.levels[puzzle.curLevel].maxLen + "&minLen=" + puzzle.levels[puzzle.curLevel].minLen);
+	ajaxReq(puzzle.newPuzzle,"php/ajax.php","type=getNewQuote&maxLen="+ puzzle.levels[puzzle.curLevel].maxLen + "&minLen=" + puzzle.levels[puzzle.curLevel].minLen);
 }
 </script>
 </head>
 <body onload = 'newPuzz()'>
 <div id = 'control' class = 'cont'>
-<input type = 'button' class = 'newPuzz' value = 'New Puzzle' onclick = "newPuzz()"/>
-<input type = 'button' id = 'paus' class = 'pause' value = 'Pause' onclick = "pause(this)"/>
-<input type = 'button' id = 'rem' class = 'remButt' value = 'Remove Mistakes' onclick = "remMistakes()"/>
-<select onChange="skillLevel(this)" id="skill">
+<input type = 'button' id = 'newPuzz' class = 'newPuzz' value = 'New Puzzle' onclick = "newPuzz()"/>
+<input type = 'button' id = 'paus' class = 'pause' value = 'Pause' onclick = "gamePlay.pause(this)"/>
+<input type = 'button' id = 'rem' class = 'remButt' value = 'Remove Mistakes' onclick = "gamePlay.remMistakes()"/>
+<select onChange="puzzle.skillLevel(this)" id="skill">
 	<option id="esy" value="Easy" >Easy </option>
 	<option id="mdm" value="Medium" Selected>Meduim</option>
 	<option id="hrd" value="Hard">Hard</option>
 	<option id="vhd" value="Very Hard">VERY Hard</option>
 </select>
+<input type = 'checkbox' id = 'showAnim' onchange = 'settings.toggleAnimation(this)'/> Show Animations
  </div>
 <div id = 'info' class = 'info'>
 Puzzle # <span id = 'puzzNum'> 0 </span>
 Quote By <span id = 'auth'>Unknown </span> 
-on the subject of <span id = 'subject'> Nothing </span>
+on the subject of <span id = 'subject'> Nothing </span><br/>
+<span id = 'bestTime' class = 'btime'></span>
 </div>
-<div id = 'puzzTop'></div>
-<div id = 'puzzBott'></div>
+<div id = 'otherInfo' class = 'otherInfo'>
+Current Time : <span id = 'curTime'> 0 </span>
+</div>
+<div id = 'puzzTop' ></div>
+<div id = 'puzzBott' class = 'botRows'></div>
 </body>
 </html>

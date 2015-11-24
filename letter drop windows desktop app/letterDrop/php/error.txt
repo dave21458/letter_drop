@@ -1200,3 +1200,1127 @@ Stack trace:
 [15-Nov-2015 22:51:43 utc] PHP Notice:  Undefined offset: 2 in C:\letterDrop\letterDrop\php\ajax.php on line 85
 [15-Nov-2015 23:19:08 utc] PHP Warning:  SQLite3::exec(): 3 values for 4 columns in C:\letterDrop\letterDrop\php\ajax.php on line 93
 [15-Nov-2015 23:22:56 utc] PHP Warning:  file_get_contents(C:\letterDrop\letterDrop\quotes\relegion.txt): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\ajax.php on line 82
+[17-Nov-2015 15:10:45 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:10:45 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:10:45 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:10:45 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:10:45 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:39 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:39 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:39 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:39 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:39 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:44 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:44 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:44 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:44 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:44 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:46 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:46 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:46 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:46 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:46 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:47 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:47 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:47 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:47 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:11:47 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:12:04 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:12:04 utc] PHP Notice:  Undefined index: whom in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:12:04 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:12:04 utc] PHP Notice:  Undefined index: len in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[17-Nov-2015 15:12:04 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 48
+[20-Nov-2015 22:19:55 utc] PHP Warning:  file_get_contents(luck.txt): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\ajax.php on line 115
+[20-Nov-2015 22:25:33 utc] PHP Warning:  file_get_contents(luck.txt): failed to open stream: No such file or directory in C:\letterDrop\letterDrop\php\ajax.php on line 115
+[20-Nov-2015 22:35:36 utc] PHP Warning:  SQLite3::exec(): near &quot;T&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 125
+[20-Nov-2015 22:35:36 utc] PHP Warning:  SQLite3::exec(): near &quot;ROURKE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 125
+[20-Nov-2015 22:36:58 utc] PHP Warning:  SQLite3::exec(): near &quot;ROURKE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 125
+[20-Nov-2015 23:26:56 utc] PHP Parse error:  syntax error, unexpected '{' in C:\letterDrop\letterDrop\php\ajax.php on line 123
+[20-Nov-2015 23:27:26 utc] PHP Parse error:  syntax error, unexpected '{' in C:\letterDrop\letterDrop\php\ajax.php on line 123
+[22-Nov-2015 17:00:09 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:00:09 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:09:17 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:09:17 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:11:09 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:11:09 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:11:40 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 112 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:11:40 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RMIDDLE AGE IS WHEN YOUR AGE STARTS TO SHOW AROUND YOUR MIDDLE.BOB HOPEAGEA&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;6&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IT IS EASY TO TAKE LIBERTY FOR GRANTED,WHEN YOU HAVE NEVER HAD IT TAKEN FROM YOU.DICK CHENEYFREEDOMT&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;CCWHEN IDEAS FAIL, WORDS COME IN VERY HANDY. JOHANN WOLFGANG VON GOETHE IDEAS+&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:11:40 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;I AM A STRONG BELIEVER IN LUCK AND I FIND THE HARDER I WORK THE MORE I HAVE OF IT. BENJAMIN FRANKLIN LUCKS&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:33 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 112 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:15:33 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:15:33 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:33 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RMIDDLE AGE IS WHEN YOUR AGE STARTS TO SHOW AROUND YOUR MIDDLE.BOB HOPEAGEA&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:33 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;6&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:33 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:34 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IT IS EASY TO TAKE LIBERTY FOR GRANTED,WHEN YOU HAVE NEVER HAD IT TAKEN FROM YOU.DICK CHENEYFREEDOMT&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:34 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:34 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;CCWHEN IDEAS FAIL, WORDS COME IN VERY HANDY. JOHANN WOLFGANG VON GOETHE IDEAS+&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:15:34 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;I AM A STRONG BELIEVER IN LUCK AND I FIND THE HARDER I WORK THE MORE I HAVE OF IT. BENJAMIN FRANKLIN LUCKS&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:16:24 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:16:24 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:16:32 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:16:32 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:16:33 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:16:33 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:17:17 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 112 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:17:17 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:17:17 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:17 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RMIDDLE AGE IS WHEN YOUR AGE STARTS TO SHOW AROUND YOUR MIDDLE.BOB HOPEAGEA&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:17 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;6&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:17 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:17 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IT IS EASY TO TAKE LIBERTY FOR GRANTED,WHEN YOU HAVE NEVER HAD IT TAKEN FROM YOU.DICK CHENEYFREEDOMT&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:18 utc] PHP Warning:  SQLite3::exec():  in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:18 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;CCWHEN IDEAS FAIL, WORDS COME IN VERY HANDY. JOHANN WOLFGANG VON GOETHE IDEAS+&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:17:18 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;I AM A STRONG BELIEVER IN LUCK AND I FIND THE HARDER I WORK THE MORE I HAVE OF IT. BENJAMIN FRANKLIN LUCKS&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 126
+[22-Nov-2015 17:19:54 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:19:54 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:20:35 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 137 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:20:35 utc] PHP Notice:  Undefined variable: db in C:\letterDrop\letterDrop\php\puzzleDB.php on line 13
+[22-Nov-2015 17:22:35 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 137 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:23:11 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:24:53 utc] PHP Warning:  Missing argument 1 for opendb(), called in C:\letterDrop\letterDrop\php\ajax.php on line 8 and defined in C:\letterDrop\letterDrop\php\puzzleDB.php on line 10
+[22-Nov-2015 17:25:37 utc] PHP Parse error:  syntax error, unexpected ')' in C:\letterDrop\letterDrop\php\ajax.php on line 8
+[22-Nov-2015 17:30:01 utc] PHP Parse error:  syntax error, unexpected ')' in C:\letterDrop\letterDrop\php\ajax.php on line 8
+[22-Nov-2015 17:31:36 utc] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in C:\letterDrop\letterDrop\php\ajax.php on line 138
+[22-Nov-2015 17:33:58 utc] PHP Notice:  Undefined index: category in C:\letterDrop\letterDrop\php\ajax.php on line 49
+[22-Nov-2015 17:33:58 utc] PHP Notice:  Undefined index: best in C:\letterDrop\letterDrop\php\ajax.php on line 49
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;AGE,147&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,97&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,59&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,129&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,132&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,221&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,50&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,167&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,38&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,165&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,51&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,113&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,66&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,44&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,107&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,113&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,57&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,107&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,95&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,111&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,84&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,73&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,243&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,81&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,99&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,81&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,256&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,126&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,94&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,167&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,56&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,77&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,199&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TRUTH,60&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,103&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,109&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,138&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,101&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,84&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,119&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,49&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,177&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,81&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,160&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,153&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,90&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,55&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,56&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,97&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,115&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,44&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,48&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,51&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,88&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,93&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,258&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,149&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,82&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,129&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,199&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,114&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,67&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,143&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,53&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,26&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,79&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,83&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,51&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,81&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,52&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,77&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,34&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,68&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,125&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,52&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,96&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,61&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,113&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;TALKING,51&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,157&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,121&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,187&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,52&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,82&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,174&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,274&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,116&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,237&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,151&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,78&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,190&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,110&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,69&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,107&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,79&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,178&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,22&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,89&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,109&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,26&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,69&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,251&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,122&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,103&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,49&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,48&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,90&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,219&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,195&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;RELIGION,120&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,209&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,52&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,42&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,98&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,72&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,110&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,61&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,85&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,73&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,100&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,111&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,73&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,99&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,102&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,74&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,98&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,61&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,269&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,94&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,123&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,101&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,30&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,127&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,45&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,61&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,98&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,95&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,89&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,71&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,60&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,53&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,222&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,82&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,85&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,55&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,104&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,46&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,45&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,33&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,39&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MONEY,100&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,91&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,45&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,34&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,38&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,158&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,97&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,125&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,84&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,93&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,121&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,166&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,101&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,38&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,78&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,78&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,93&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,71&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,125&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,186&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,91&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,58&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,115&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,47&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,39&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,77&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,55&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,193&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,268&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,126&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,163&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,114&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,270&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,23&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,215&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,78&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,37&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,41&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,185&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,60&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LIFE,37&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,127&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,89&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,78&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,107&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,188&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,165&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,116&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,93&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,90&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,125&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,122&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,107&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,67&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,105&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,130&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,39&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,53&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,93&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,72&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,97&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,127&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,79&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,61&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,105&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,119&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,95&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,71&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,81&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,74&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,56&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,126&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,69&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,62&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,95&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,51&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,159&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,107&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,105&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,59&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,66&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,128&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,99&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,171&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,104&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,208&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,101&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;COMEDY,50&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,83&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,33&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,70&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,108&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,54&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,83&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;LUCK,33&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,56&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,132&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,122&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,68&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,113&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,100&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,109&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,60&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,91&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,53&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,46&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,164&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,38&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,61&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,91&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,106&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,123&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,55&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,84&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;IDEAS,85&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,89&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,128&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,97&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,26&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,78&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,176&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,98&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,200&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,35&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,59&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,122&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,125&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,185&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,266&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,35&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,158&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,131&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,121&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,113&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,108&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,121&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,233&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,77&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,34&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,36&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,44&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,49&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,102&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,254&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,161&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,277&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,101&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;FRIENDSHIP,72&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,94&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,149&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,116&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,142&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,45&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,64&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,50&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,100&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,76&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,66&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,98&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,164&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,90&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,92&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,124&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,47&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,154&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,69&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,98&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,85&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,72&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,91&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,174&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,150&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,129&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,257&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,156&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,115&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,273&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,50&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,102&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,90&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,103&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,154&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,155&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;MORALITY,74&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,175&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,96&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,87&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,115&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,131&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,82&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,65&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,86&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,48&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,89&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,177&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,68&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,93&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,60&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,136&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,63&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,80&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,52&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,129&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,75&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,129&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;GOOD AND EVIL,72&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;QUOTES,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;QUOTES,139&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;QUOTES,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;QUOTES,139&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;QUOTES,43&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:50:48 utc] PHP Warning:  SQLite3::exec(): unrecognized token: &quot;&quot;QUOTES,139&quot; in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;147&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;97&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;59&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;129&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;132&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;221&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;50&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;167&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;38&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;165&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;51&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;113&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;66&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;44&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;107&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;113&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;57&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;107&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;95&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;111&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;84&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;73&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;243&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;81&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;99&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;81&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;256&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;126&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;94&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;167&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;56&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;77&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;199&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;60&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;103&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;109&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;138&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;101&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;84&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;119&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;49&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;177&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;81&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;160&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;153&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;90&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;55&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;56&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;97&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;115&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;44&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;48&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;51&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;88&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;93&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;258&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;149&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;82&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;129&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;199&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;114&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;67&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;143&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;53&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;26&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;79&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;83&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;51&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;81&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;52&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;77&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;34&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;68&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;125&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;52&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;96&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;61&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;113&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;51&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;157&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;121&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;187&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;52&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;82&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;174&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;274&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;116&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;237&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;151&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;78&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;190&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;110&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;69&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;107&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;79&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;178&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;22&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;89&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;109&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;26&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;69&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;251&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;122&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;103&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;49&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;48&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;90&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;219&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;195&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;120&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;209&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;52&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;42&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;98&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;72&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;110&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;61&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;85&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;73&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;100&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;111&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;73&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;99&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;102&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;74&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;98&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;61&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;269&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;94&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;123&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;101&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;30&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;127&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;45&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;61&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;98&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;95&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;89&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;71&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;60&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;53&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;222&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;82&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;85&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;55&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;104&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;46&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;45&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;33&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;39&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;100&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;91&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;45&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;34&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;38&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;158&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;97&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;125&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;84&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;93&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;121&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;166&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;101&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;38&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;78&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;78&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;93&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;71&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;125&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;186&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;91&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;58&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;115&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;47&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;39&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;77&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;55&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;193&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;268&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;126&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;163&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;114&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;270&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;23&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;215&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;78&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;37&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;41&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;185&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;60&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;37&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;127&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;89&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;78&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;107&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;188&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;165&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;116&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;93&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;90&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;125&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;122&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;107&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;67&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;105&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;130&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;39&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;53&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;93&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;72&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;97&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;127&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;79&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;61&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;105&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;119&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;95&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;71&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;81&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;74&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;56&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;126&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;69&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;62&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;95&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;51&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;159&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;107&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;105&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;59&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;66&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;128&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;99&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;171&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;104&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;208&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;101&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;50&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;83&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;33&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;70&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;108&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;54&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;83&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;33&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;56&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;132&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;122&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;68&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;113&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;100&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;109&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;60&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;91&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;53&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;46&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;164&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;38&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;61&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;91&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;106&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;123&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;55&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;84&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;85&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;89&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;128&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;97&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;26&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;78&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;176&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;98&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;200&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;35&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;59&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;122&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;125&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;185&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;266&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;35&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;158&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;131&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;121&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;113&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;108&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;121&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;233&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;77&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;34&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;36&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;44&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;49&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;102&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;254&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;161&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;277&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;101&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;72&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;94&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;149&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;116&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;142&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;45&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;64&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;50&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;100&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;76&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;66&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;98&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;164&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;90&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;92&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;124&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;47&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;154&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;69&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;98&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;85&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;72&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;91&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;174&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;150&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;129&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;257&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;156&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;115&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;273&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;50&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;102&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;90&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;103&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;154&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;155&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;74&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;175&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;96&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;87&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;115&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;131&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;82&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;65&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;86&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;48&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;89&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;177&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;68&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;93&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;60&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;136&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;63&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;80&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;52&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;129&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;75&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;129&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;72&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;139&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;139&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;43&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 17:55:52 utc] PHP Warning:  SQLite3::exec(): near &quot;139&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 18:01:58 utc] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\letterDrop\letterDrop\php\ajax.php on line 148
+[22-Nov-2015 18:03:14 utc] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\letterDrop\letterDrop\php\ajax.php on line 148
+[22-Nov-2015 18:35:27 utc] PHP Parse error:  syntax error, unexpected end of file in C:\letterDrop\letterDrop\php\ajax.php on line 158
+[22-Nov-2015 18:35:40 utc] PHP Parse error:  syntax error, unexpected end of file in C:\letterDrop\letterDrop\php\ajax.php on line 158
+[22-Nov-2015 18:35:41 utc] PHP Parse error:  syntax error, unexpected end of file in C:\letterDrop\letterDrop\php\ajax.php on line 158
+[22-Nov-2015 18:36:05 utc] PHP Parse error:  syntax error, unexpected end of file in C:\letterDrop\letterDrop\php\ajax.php on line 158
+[22-Nov-2015 18:38:19 utc] PHP Warning:  SQLite3::exec(): near &quot;,&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 18:38:49 utc] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\letterDrop\letterDrop\php\ajax.php on line 145
+[22-Nov-2015 18:42:16 utc] PHP Warning:  SQLite3::exec(): near &quot;,&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 18:44:46 utc] PHP Warning:  SQLite3::exec(): near &quot;,&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[22-Nov-2015 18:45:45 utc] PHP Warning:  SQLite3::exec(): near &quot;,&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[23-Nov-2015 00:01:10 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, no such table: quote in C:\letterDrop\letterDrop\php\ajax.php on line 9
+[23-Nov-2015 00:01:10 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, no such table: quote in C:\letterDrop\letterDrop\php\ajax.php on line 19
+[23-Nov-2015 00:01:10 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: quote in C:\letterDrop\letterDrop\php\ajax.php on line 26
+[23-Nov-2015 00:01:10 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 27
+[23-Nov-2015 23:12:36 utc] PHP Notice:  Undefined index: _$id in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[23-Nov-2015 23:12:36 utc] PHP Notice:  Undefined variable: newid in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[23-Nov-2015 23:12:36 utc] PHP Notice:  Array to string conversion in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[23-Nov-2015 23:14:16 utc] PHP Notice:  Undefined index: _$id in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[23-Nov-2015 23:15:34 utc] PHP Notice:  Undefined index: _$id in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[23-Nov-2015 23:15:55 utc] PHP Notice:  Undefined index: _$id in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[23-Nov-2015 23:35:16 utc] PHP Notice:  Undefined index: _id in C:\letterDrop\letterDrop\php\ajax.php on line 147
+[24-Nov-2015 00:38:41 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such column: undefined in C:\letterDrop\letterDrop\php\ajax.php on line 143
+[24-Nov-2015 00:38:41 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 144
+[24-Nov-2015 00:48:11 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such column: undefined in C:\letterDrop\letterDrop\php\ajax.php on line 144
+[24-Nov-2015 00:48:11 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 145
+[24-Nov-2015 00:48:41 utc] PHP Notice:  Undefined index: rowId in C:\letterDrop\letterDrop\php\ajax.php on line 160
+[24-Nov-2015 00:49:50 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near &quot; &quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 144
+[24-Nov-2015 00:49:50 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 145
+[24-Nov-2015 00:50:21 utc] PHP Notice:  Undefined index: rowId in C:\letterDrop\letterDrop\php\ajax.php on line 160
+[24-Nov-2015 00:54:00 utc] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near &quot;order&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 144
+[24-Nov-2015 00:54:00 utc] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\letterDrop\letterDrop\php\ajax.php on line 145
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;FACT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;THAT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;DOES&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;DIFFICULT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;WHO&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;WISH&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;DEFINITION&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;TO&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;ON&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;WHAT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;WHO&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;IN&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;OXYGEN&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;ARE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;ONE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;,&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;MEANS&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;PEOPLE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;FEEL&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;FIGHT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;INSTANT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;DANGEROUS&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;HAS&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;SOUND&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;MUST&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;THAT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;THE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;HAVE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;MAN&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;FREEDOM&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;SPEAKS&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;,&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;BELIEVE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;IT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;ORDER&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;CANNOT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;MEN&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;CONTEST&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;ELSE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;FIGHT&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;PREFER&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;WILL&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;GREATEST&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;WHEN&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;FREEDOM&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;NATION&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;MEANS&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;PEOPLE&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;IN&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;APOLOGY&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::querySingle(): Unable to prepare statement: 1, near &quot;STIFF&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 153
+[24-Nov-2015 01:04:52 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:06:39 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:07:41 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 156
+[24-Nov-2015 01:08:51 utc] PHP Warning:  SQLite3::exec(): near &quot;(&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 155
+[24-Nov-2015 01:25:55 utc] PHP Warning:  SQLite3::exec(): near &quot;whom&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 155
+[24-Nov-2015 01:26:44 utc] PHP Warning:  SQLite3::exec(): near &quot;whom&quot;: syntax error in C:\letterDrop\letterDrop\php\ajax.php on line 155

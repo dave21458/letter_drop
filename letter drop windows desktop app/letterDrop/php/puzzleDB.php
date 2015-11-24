@@ -7,10 +7,11 @@ class sqlite3db extends SQLite3
 	}
 }
 
-function opendb()
+function opendb($db)
 {
 	if(!isset($db3)){
-		$db3 = new sqlite3db("../db/quotes.sqlite");
+		if($db == '')$db= "../db/quotes.sqlite";
+		$db3 = new sqlite3db($db);
 	}
 	if ($db3->lastErrorCode()) {
 		printf("Connect failed: %s\n");
